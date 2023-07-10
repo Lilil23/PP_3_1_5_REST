@@ -9,7 +9,6 @@ import ru.web.model.Role;
 
 @Service
 @RequiredArgsConstructor
-@Transactional
 @Slf4j
 public class RoleServiceImpl implements RoleService {
 
